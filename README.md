@@ -9,7 +9,7 @@ I love to learn. I love to build. Well, they both go hand in hand.
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [contactumarfaruk@gmail.com](mailto:contactumarfaruk@gmail.com)
 * 🚀  I'm currently working with [Mercurie](http://mercurie.ng)
-* 🧠  I'm learning GCP, Docker, Kubernetes and DevOps
+* 🧠  I'm learning DevOps (GCP,Docker & Kubernetes)
 * 🤝  I'm open to collaborating on exciting and challenging projects with meaningful impact
 * ⚡  AI, IoT and Web3 enthusiast
 
