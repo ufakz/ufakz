@@ -1,4 +1,4 @@
-Hi 👋 My name is Umar Farouq
+Hi 👋 My name is Farouq
 ============================
 
 Software Engineer
