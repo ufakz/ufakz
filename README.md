@@ -7,9 +7,8 @@ Software Engineer
 I love to learn. I love to build. Well, they both go hand in hand.
 
 * 🌍  I'm based in Nigeria
-* 🖥️  See my portfolio at [ufakz.herokuapp.com](http://ufakz.herokuapp.com)
 * ✉️  You can contact me at [contactumarfaruk@gmail.com](mailto:contactumarfaruk@gmail.com)
-* 🚀  I'm currently working on [Seller](http://seller.africa)
+* 🚀  I'm currently working with [Mercurie](http://mercurie.ng)
 * 🧠  I'm learning GCP, Docker, Kubernetes and DevOps
 * 🤝  I'm open to collaborating on exciting and challenging projects with meaningful impact
 * ⚡  AI, IoT and Web3 enthusiast
@@ -25,7 +24,3 @@ I love to learn. I love to build. Well, they both go hand in hand.
 <a href="https://www.github.com/farouqu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
 <a href="https://www.linkedin.com/in/ufakz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 </p>
-
-### Badges
-
-<a href="https://github.com/farouqu" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farouqu&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
