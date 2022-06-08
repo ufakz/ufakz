@@ -11,7 +11,7 @@ I love to learn. I love to build. Well, they both go hand in hand.
 * 🚀  Currently working with [Mercurie](http://mercurie.ng)
 * 🧠  Learning DevOps (GCP,Docker & Kubernetes)
 * 🤝  Open to collaborating on exciting and challenging projects with meaningful impact
-* ⚡  AI, IoT and Web3 enthusiast
+* ⚡  AI, IoT and Modern Web explorer
 
 ### Skills
 
