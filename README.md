@@ -1,7 +1,7 @@
 Hi 👋 My name is Farouq
 ============================
 
-Software Engineer
+Software & Cloud Engineer
 -----------------
 
 I love to learn. I love to build. Well, they both go hand in hand.
