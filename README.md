@@ -4,7 +4,6 @@ Hi 👋 My name is Farouq
 Software & Cloud Engineer
 -----------------
 
-I love to learn. I love to build. Well, they both go hand in hand.
 
 * 🌍  On planet Earth
 * ✉️  You can contact me at [contactumarfaruk@gmail.com](mailto:contactumarfaruk@gmail.com)
