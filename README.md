@@ -6,7 +6,7 @@ Software & Cloud Engineer
 
 
 * 🌍  On planet Earth
-* ✉️  You can contact me at [contactumarfaruk@gmail.com](mailto:contactumarfaruk@gmail.com)
+* ✉️  Contact me at [contactumarfaruk@gmail.com](mailto:contactumarfaruk@gmail.com)
 * 🚀  Currently working with [Mercurie](http://mercurie.ng)
 * 🧠  Learning DevOps (GCP, AWS, Docker & Kubernetes)
 * 🤝  Open to collaborating on exciting and challenging projects with meaningful impact
