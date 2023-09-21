@@ -1,16 +1,16 @@
 Hi 👋 My name is Farouq
 ============================
 
-Software & Cloud Engineer
+Software, Cloud & ML Engineer
 -----------------
 
 
-* 🌍  On planet Earth
-* ✉️  Contact me at [contactumarfaruk@gmail.com](mailto:contactumarfaruk@gmail.com)
-* 🧠  Exploring Intelligent Systems Engineering @[EDISS](https://master-ediss.eu)
-* 🧠  Learning DevOps (GCP, AWS, Docker & Kubernetes)
-* 🤝  Open to collaborating on exciting and challenging projects with meaningful impact
-* ⚡  AI, IoT and Modern Web explorer
+* 🌍	On planet Earth
+* ✉️	Contact me at [contactumarfaruk@gmail.com](mailto:contactumarfaruk@gmail.com)
+* 🧠	Exploring Intelligent Systems Engineering @[EDISS](https://master-ediss.eu)
+* 🧠	Learning DevOps (GCP, AWS, Docker & Kubernetes)
+* 🤝	Open to collaborating on exciting and challenging projects with meaningful impact
+* ⚡	AI, IoT and Modern Web explorer
 
 ### Skills
 
