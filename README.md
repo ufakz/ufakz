@@ -1,7 +1,7 @@
 Hi 👋 My name is Farouq
 ============================
 
-Software & ML Engineer
+Software Engineer
 -----------------
 
 
