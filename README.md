@@ -10,7 +10,7 @@ Software & ML Engineer
 * 🧠	Exploring AI & Intelligent Systems @[EDISS](https://master-ediss.eu)
 * 👨🏽‍💻	Committed to being Full-Stack (any idea to product)
 * 🤝	Open to collaborating on exciting and challenging projects with meaningful impact
-* ⚡	AI, IoT and Modern Web explorer
+* ⚡	AI, IoT and Robotics explorer
 
 ### Socials
 
