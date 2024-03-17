@@ -7,7 +7,7 @@ Software & ML Engineer
 
 * 🌍	On planet Earth
 * ✉️	Contact me at [contactumarfaruk@gmail.com](mailto:contactumarfaruk@gmail.com)
-* 🧠	Exploring AI & Intelligent Systems @[EDISS](https://master-ediss.eu)
+* 🧠	Diving deeper into AI & Intelligent Systems @[EDISS](https://master-ediss.eu)
 * 👨🏽‍💻	Committed to being Full-Stack (any idea to product)
 * 🤝	Open to collaborating on exciting and challenging projects with meaningful impact
 * ⚡	AI, IoT and Robotics explorer
