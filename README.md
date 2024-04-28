@@ -1,4 +1,4 @@
-Hi 👋 You can call me Farouq!
+Hi 👋 Farouq here!
 ============================
 
 Software & ML Engineer
