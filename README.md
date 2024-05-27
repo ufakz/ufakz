@@ -4,8 +4,8 @@ Hi 👋 Farouq here!
 Software & ML Engineer
 -----------------
 
+Builder. Researcher. Explorer
 
-* 🌍	On planet Earth
 * ✉️	Contact me at [contactumarfaruk@gmail.com](mailto:contactumarfaruk@gmail.com)
 * 🧠	Diving deeper into AI & Intelligent Systems @[EDISS](https://master-ediss.eu)
 * 👨🏽‍💻	Committed to being Full-Stack (any idea to product)
