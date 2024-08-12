@@ -1,6 +1,3 @@
-Hi 👋 Farouq here!
-============================
-
 Software & ML Engineer
 -----------------
 
