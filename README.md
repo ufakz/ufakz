@@ -1,4 +1,4 @@
-Software & ML Engineer
+Software & ML
 -----------------
 
 Builder. Researcher. Explorer
