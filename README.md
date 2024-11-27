@@ -7,7 +7,7 @@ Builder. Researcher. Explorer
 * 🧠	Diving deeper into AI & Intelligent Systems @[EDISS](https://master-ediss.eu)
 * 👨🏽‍💻	Committed to being Full-Stack (any idea to product)
 * 🤝	Open to collaborating on exciting and challenging projects
-* ⚡	AI, IoT and Robotics explorer
+* ⚡	  Explorer of history, philosophy, psychology and everything in between
 
 ### Socials
 
