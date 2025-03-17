@@ -1,7 +1,7 @@
 Software & ML
 -----------------
 
-Builder. Researcher. Explorer
+crafting move 37.
 
 * ✉️	Contact me at [contactumarfaruk@gmail.com](mailto:contactumarfaruk@gmail.com)
 * 🧠	Diving deeper into AI & Intelligent Systems @[EDISS](https://master-ediss.eu)
