@@ -1,4 +1,4 @@
-Software, AI & Robots
+Software - AI - Robots
 -----------------
 
 crafting move 37.
