@@ -4,10 +4,9 @@ Software - AI - Robots
 crafting move 37.
 
 * ✉️	Contact me at [contactumarfaruk@gmail.com](mailto:contactumarfaruk@gmail.com)
-* 🧠	Diving deeper into AI & Intelligent Systems @[EDISS](https://master-ediss.eu)
-* 👨🏽‍💻	Committed to being Full-Stack (idea to product)
+* 👨🏽‍💻	Full-Stack (idea to product)
 * 🤝	Open to collaborating on exciting and challenging projects
-* ⚡	  AI and Robotics Explorer
+* ⚡	  AI and Robotics Researcher
 
 ### Socials
 
